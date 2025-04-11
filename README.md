@@ -24,6 +24,9 @@ A CLI-based Python project to manage student academic records using SQLite.
 ---
 
 ## 🚀 How to Run
+## 📸 Screenshot
+
+![CLI Screenshot](screenshot.png)
 
 ```bash
 python main.py
